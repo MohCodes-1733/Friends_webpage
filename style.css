@@ -33,10 +33,13 @@ tr:nth-child(even) {
 body{
     background-color: #f4f0f1;
 }
-h4{
+h4,h3{
     color: rgb(243, 49, 159);
 }
 #heading{
     text-decoration: underline;
     text-transform: uppercase;
+}
+#dailyroutine{
+    color:#eb4c74;
 }
