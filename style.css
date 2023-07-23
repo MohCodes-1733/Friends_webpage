@@ -1,0 +1,42 @@
+.center-allign{
+    text-align: center;
+    border: 3px solid #fba1b7;
+}
+
+img {
+  border: 5px solid #dd94a7;
+  padding: 5px;
+}
+
+table, th, td {
+  margin:auto;
+  border: 1px solid #ffd1da;
+  padding:15px;
+  text-transform: capitalize;
+}
+
+tr:nth-child(odd) {
+  background-color: #fba1b7;
+  color:#7b001f;
+}
+
+tr:nth-child(even) {
+    background-color: #ffd1da;
+    color:#7b001f;
+  }
+
+.center-table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body{
+    background-color: #f4f0f1;
+}
+h4{
+    color: rgb(243, 49, 159);
+}
+#heading{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
